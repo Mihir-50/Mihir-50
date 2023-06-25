@@ -11,7 +11,7 @@ Overall, I am a highly motivated and results-driven individual who is dedicated 
 
 
 
-- 🌍 I'm based in Robertsganj, Uttar Pradesh, India
+- 🌍 I'm based in Pune, Maharashtra, India
 - 🖥️ See my portfolio at https://sites.google.com/view/mihirsportfolio/home
 - ✉️ You can contact me at mihir231216@gmail.com
 - 🚀 I'm currently working on **Movie Recommender System**
