@@ -14,8 +14,8 @@ Overall, I am a highly motivated and results-driven individual who is dedicated 
 - 🌍 I'm based in Pune, Maharashtra, India
 - 🖥️ See my portfolio at https://sites.google.com/view/mihirsportfolio/home
 - ✉️ You can contact me at mihir231216@gmail.com
-- 🚀 I'm currently working on **Movie Recommender System**
-- 🧠 I'm learning Machine Learning.
+- 🚀 I'm currently working on **Real Estate Capstone Project**
+- 🧠 I'm learning Machine Learning & MlOps.
 - 🤝 I'm open to collaborating on projects.
 - ⚡ Let's have fun with snakes animals like Python, Pandas, Anaconda.
 
